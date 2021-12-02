@@ -3,7 +3,7 @@
 
 
 def main():
-    with open('input-advent-of-code-1.txt') as rd:
+    with open('problem-1/input-advent-of-code-1.txt') as rd:
         ranges = [x.strip() for x in rd.readlines()]
         #convert to ints
         ranges = [int(item) for item in ranges]
