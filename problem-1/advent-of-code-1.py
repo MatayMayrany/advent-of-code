@@ -1,6 +1,4 @@
-
 #! /usr/bin/env python
-
 
 def main():
     with open('problem-1/input-advent-of-code-1.txt') as rd:
