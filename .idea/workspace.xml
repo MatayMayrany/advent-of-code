@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d77ef6-7713-483a-8baa-a17d18418d3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2022/day-3-2022/day3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day-3-2022/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day-3-2022/input-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day-4-2022/day4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day-4-2022/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/day-4-2022/input-1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-1-2022/day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2022/day-1-2022/day1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-1-2022/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/2022/day-1-2022/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-1-2022/input-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/day-1-2022/input-1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-2-2022/day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2022/day-2-2022/day2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-2-2022/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/2022/day-2-2022/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-2-2022/input-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/day-2-2022/input-1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-1/advent-of-code-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/problem-1/advent-of-code-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-1/input-advent-of-code-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/problem-1/input-advent-of-code-1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-1/problem-description.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/problem-1/problem-description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-2/advent-of-code-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/problem-2/advent-of-code-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-2/input-advent-of-code-2" beforeDir="false" afterPath="$PROJECT_DIR$/2021/problem-2/input-advent-of-code-2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-2/problem-description.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/problem-2/problem-description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-3/advent-of-code-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021/problem-3/advent-of-code-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-3/input-advent-of-code-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/problem-3/input-advent-of-code-3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-3/problem-description.md" beforeDir="false" afterPath="$PROJECT_DIR$/2021/problem-3/problem-description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/day-5-2022/day5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2022/day-5-2022/day5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +40,7 @@
       <recent name="$PROJECT_DIR$/2022" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.day4">
+  <component name="RunManager" selected="Python.day5">
     <configuration name="day3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="advent-of-code-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="advent-of-code-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022/day-4-2022/day4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022/day-5-2022/day5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,11 +85,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.day3" />
-      <item itemvalue="Python.day4" />
+      <item itemvalue="Python.day5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day4" />
+        <item itemvalue="Python.day5" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +128,11 @@
           <url>file://$PROJECT_DIR$/2022/day-2-2022/day2.py</url>
           <line>65</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2022/day-5-2022/day5.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
