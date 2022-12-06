@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d77ef6-7713-483a-8baa-a17d18418d3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2022/day-6-2022/day6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/day-6-2022/input-1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/day-5-2022/day5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2022/day-5-2022/day5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
       <recent name="$PROJECT_DIR$/2022" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.day5">
+  <component name="RunManager" selected="Python.day6">
     <configuration name="day3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="advent-of-code-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="advent-of-code-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022/day-5-2022/day5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022/day-6-2022/day6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,11 +86,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.day3" />
-      <item itemvalue="Python.day5" />
+      <item itemvalue="Python.day6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day5" />
+        <item itemvalue="Python.day6" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +134,11 @@
           <url>file://$PROJECT_DIR$/2022/day-5-2022/day5.py</url>
           <line>31</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2022/day-6-2022/day6.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
