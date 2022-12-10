@@ -4,7 +4,7 @@ def get_count_till_all_unique(item, unique_count):
     result = 0
     uniques = []
     for char in item:
-        index = len(uniques) if len(uniques) > 0 else 0
+        index = len(uniques)
         for unique in reversed(uniques):
             if unique == char:
                 del uniques[0:index]
