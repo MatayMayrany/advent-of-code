@@ -1,9 +1,5 @@
 #! /usr/bin/env python
-import numpy as np
-
 visited = {'0,0'}
-larger_example = ['R 5', 'U 8', 'L 8', 'D 3', 'R 17', 'D 10', 'L 25', 'U 20']
-
 
 def move_tail(head, tail, last_tail):
     x_difference = head[0] - tail[0]
