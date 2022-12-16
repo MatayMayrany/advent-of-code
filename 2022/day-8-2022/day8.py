@@ -53,7 +53,7 @@ def get_scenic_score(items, i, j):
     visible_trees_down = 0
     for row in range(i - 1, -1, -1):
         visible_trees_up += 1
-        if items[row][j] >= tree_height: # one of heights above is visible
+        if items[row][j] >= tree_height:  # one of heights above is visible
             break
     for row in range(i + 1, len(items)):
         visible_trees_down += 1
